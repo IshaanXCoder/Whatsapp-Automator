@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.sendwhatmsg("+918010228200", "HELLLOOO THIS IS CALLED A MSG USING MPYTHON EHEHHEHEHE", 1, 00)
